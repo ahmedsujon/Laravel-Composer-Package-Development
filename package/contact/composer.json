@@ -1,0 +1,19 @@
+{
+    "name": "sujan/contact",
+    "description": "This package will send email to admin and save the contact info in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sujan\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmedsujon",
+            "email": "ahmedsujon050@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
